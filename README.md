@@ -8,7 +8,9 @@ N'oubliez pas de donner votre avis dans les commentaires, sur github ou en face.
 
 >*Merci beaucoup !!*
 
-## Suivez les liens suivants pour accéder aux jeux 
+
+
+## Suivez les liens suivants pour accéder aux jeux :
 
 - **[Abou](https://github.com/abusithbot/Luckgame)**
 - **[Martine](https://github.com/MartineJA/KotopouloBoardGame.git)**
