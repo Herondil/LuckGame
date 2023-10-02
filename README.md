@@ -4,7 +4,7 @@ Bienvenue sur la page des jeux de chance développés par la formation **VUNI03*
 
 Il s'agit d'un petit exercice de <span style="color:blue">*Game Design sur la conception d'un jeu de dés*</span>.
 
-N'oubliez pas de donner votre avis dans les commentaires, sur github ou en face.
+N'oubliez pas de donner votre avis dans les commentaires, sur github ou autour d'un thé.
 
 >*Merci beaucoup !!*
 
