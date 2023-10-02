@@ -16,7 +16,7 @@ N'oubliez pas de donner votre avis dans les commentaires, sur github ou autour d
 - **[Martine](https://github.com/MartineJA/KotopouloBoardGame.git)**
 - **[Baptiste](https://github.com/Kiramuun/GameParty)**
 - **[Cristian](https://github.com/voixdigitale/LuckGame/)**
-- **[Koko]()**
+- **[Koko](https://github.com/KokoChii/projet-scratch)**
 - **[Chelia](https://github.com/helia0/Jeu-d-hasard/)**
 - **[Pierre](?)**
 - **[Marley](https://github.com/marleyknx/LuckGames)**
