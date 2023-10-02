@@ -18,7 +18,7 @@ N'oubliez pas de donner votre avis dans les commentaires, sur github ou autour d
 - **[Cristian](https://github.com/voixdigitale/LuckGame/)**
 - **[Koko](https://github.com/KokoChii/projet-scratch)**
 - **[Chelia](https://github.com/helia0/Jeu-d-hasard/)**
-- **[Pierre](?)**
+- **[Pierre](https://github.com/3WAPierre93/jeux-des-petits-chevaux-)**
 - **[Marley](https://github.com/marleyknx/LuckGames)**
 
 ![dice image](https://c.pxhere.com/images/f9/af/a526c7223d100517e472b7a9b8f3-1600707.jpg!s)
