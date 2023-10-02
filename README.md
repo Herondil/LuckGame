@@ -1,4 +1,4 @@
-# Jeu de chance !
+# Jeux de chance
 
 Bienvenue sur la page des jeux de chance développés par la formation **VUNI03** !
 
