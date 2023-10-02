@@ -17,7 +17,7 @@ N'oubliez pas de donner votre avis dans les commentaires, sur github ou autour d
 - **[Baptiste](https://github.com/Kiramuun/GameParty)**
 - **[Cristian](https://github.com/voixdigitale/LuckGame/)**
 - **[Koko]()**
-- **[Chelia](?)**
+- **[Chelia](https://github.com/helia0/Jeu-d-hasard/)**
 - **[Pierre](?)**
 - **[Marley](https://github.com/marleyknx/LuckGames)**
 
