@@ -20,3 +20,5 @@ N'oubliez pas de donner votre avis dans les commentaires, sur github ou en face.
 - **[Chelia](?)**
 - **[Pierre](?)**
 - **[Marley](https://github.com/marleyknx/LuckGames)**
+
+![dice image](https://c.pxhere.com/images/f9/af/a526c7223d100517e472b7a9b8f3-1600707.jpg!s)
