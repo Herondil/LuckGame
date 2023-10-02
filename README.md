@@ -15,8 +15,8 @@ N'oubliez pas de donner votre avis dans les commentaires, sur github ou autour d
 - **[Abou](https://github.com/abusithbot/Luckgame)**
 - **[Martine](https://github.com/MartineJA/KotopouloBoardGame.git)**
 - **[Baptiste](https://github.com/Kiramuun/GameParty)**
-- **[Cristian](https://scratch.mit.edu/projects/898191319/)**
-- **[Koko](?)**
+- **[Cristian](https://github.com/voixdigitale/LuckGame/)**
+- **[Koko]()**
 - **[Chelia](?)**
 - **[Pierre](?)**
 - **[Marley](https://github.com/marleyknx/LuckGames)**
