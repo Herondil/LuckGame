@@ -13,7 +13,7 @@ N'oubliez pas de donner votre avis dans les commentaires, sur github ou autour d
 ## Suivez les liens suivants pour accéder aux jeux :
 
 - **[Abou](https://github.com/abusithbot/Luckgame)**
-- **[Martine](https://github.com/MartineJA/KotopouloBoardGame.git)**
+- **[Martine](https://github.com/MartineJA/KotopouloBoardGame/tree/Kotopoulo-Fire)**
 - **[Baptiste](https://github.com/Kiramuun/GameParty)**
 - **[Cristian](https://github.com/voixdigitale/LuckGame/)**
 - **[Koko](https://github.com/KokoChii/projet-scratch)**
