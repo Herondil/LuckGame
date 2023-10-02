@@ -1,6 +1,20 @@
-# LuckGame
-Exercice de Game Design sur la conception d'un jeu de dés.
+# Jeu de chance !
 
-L'objectif est d'avoir au final une version implémentée dans Scractch.
+Bienvenue sur la page des jeux de chance développés par la formation **VUNI03** !
 
-![Image de test](https://myoctocat.com/assets/images/base-octocat.svg](https://raw.githubusercontent.com/Herondil/LuckGame/main/Opus%20Magnum%20-%20Or%20raffin%C3%A9%20(60G%2C%20136%2C%207%2C%202023-09-25-13-14-52).gif)https://raw.githubusercontent.com/Herondil/LuckGame/main/Opus%20Magnum%20-%20Or%20raffin%C3%A9%20(60G%2C%20136%2C%207%2C%202023-09-25-13-14-52).gif)
+Il s'agit d'un petit exercice de <span style="color:blue">*Game Design sur la conception d'un jeu de dés*</span>.
+
+N'oubliez pas de donner votre avis dans les commentaires, sur github ou en face.
+
+>*Merci beaucoup !!*
+
+## Suivez les liens suivants pour accéder aux jeux 
+
+- **[Abou](https://github.com/abusithbot/Luckgame)**
+- **[Martine](https://github.com/MartineJA/KotopouloBoardGame.git)**
+- **[Baptiste](https://github.com/Kiramuun/GameParty)**
+- **[Cristian](https://scratch.mit.edu/projects/898191319/)**
+- **[Koko](?)**
+- **[Chelia](?)**
+- **[Pierre](?)**
+- **[Marley](https://github.com/marleyknx/LuckGames)**
