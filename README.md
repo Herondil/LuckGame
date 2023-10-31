@@ -1,10 +1,10 @@
-# Jeux textuels
+# Jeux de Shoot
 
-Bienvenue sur la page des jeux textuels développés par la formation **VUNI03** !
+Bienvenue sur la page des jeux de shoot développés par la formation **VUNI03** !
 
-Il s'agit de travailler à la conception d'un jeu qui utilise du texte tapé au clavier.
+Il s'agit du premier jeu fait sous Unity !!
 
-N'oubliez pas de donner votre avis, sur github ou autour d'un thé !
+N'oubliez pas de donner votre avis, sur github, autour d'un thé ou dans notre salle !
 
 >*Merci beaucoup !!*
 
@@ -12,11 +12,11 @@ N'oubliez pas de donner votre avis, sur github ou autour d'un thé !
 
 ## Suivez les liens suivants pour accéder aux jeux :
 
-- **[Abou](https://github.com/abusithbot/MazeGame)**
-- **[Martine](https://github.com/MartineJA/LabyGame)**
-- **[Baptiste](https://github.com/Kiramuun/Labyrinthe-Ensorceler)**
-- **[Cristian](https://github.com/voixdigitale/Labyrinthe)**
-- **[Koko](https://github.com/KokoChii/Laby)**
-- **[Chelia](https://github.com/helia0/Ne-te-fais-pas-attraper-par-Elon-Musk)**
-- **[Pierre](https://github.com/3WAPierre93/The-Joking-Maze)**
-- **[Marley](https://github.com/marleyknx/Labyrinth)**
+- **[Abou](https://github.com/abusithbot/NierHack)**
+- **[Martine](https://github.com/MartineJA/ConfusedLands-main.git)**
+- **[Baptiste](https://github.com/Kiramuun/VaisseauxCombat)**
+- **[Cristian](https://github.com/voixdigitale/TwinStickShooter)**
+- **[Koko](https://github.com/KokoChii/Shooter)**
+- **[Chelia](https://github.com/helia0/Shoot-Shoot)**
+- **[Pierre](https://github.com/3WAPierre93/MiniHackingGame/releases/tag/Testing)**
+- **[Marley](https://github.com/marleyknx/TwinStickShooter.git)**
