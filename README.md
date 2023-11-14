@@ -14,9 +14,9 @@ N'oubliez pas de donner votre avis, sur github, autour d'un thé ou dans notre s
 
 - **[Abou]()**
 - **[Martine](https://github.com/MartineJA/Where-is-my-Uncle)**
-- **[Baptiste]()**
+- **[Baptiste]()** Missing
 - **[Cristian](https://github.com/voixdigitale/SeptFamilles)**
 - **[Koko](https://github.com/KokoChii/ObjectClasse)**
 - **[Chelia](https://github.com/helia0/CardsGame)**
 - **[Pierre](https://github.com/3WAPierre93/SlayTheSpireProject)**
-- **[Marley]()**
+- **[Marley]()** Missing
